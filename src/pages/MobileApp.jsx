@@ -1,17 +1,16 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import ss1 from '../assets/ss1.png';
+import ss2 from '../assets/ss2.png';
+import ss3 from '../assets/ss3.png';
+import ss4 from '../assets/ss4.png';
+import ss5 from '../assets/ss5.png';
+import ss6 from '../assets/ss6.png';
+import ss7 from '../assets/ss7.png';
+import qr from '../assets/qr-download.png';
 
 const MobileApp = () => {
-  const screenshots = [
-    '.../assets/ss5.png',
-    '.../assets/ss4.png',
-    '.../assets/ss3.png',
-    '.../assets/ss2.png',
-    '.../assets/ss1.png',
-    '.../assets/ss6.png',
-    '.../assets/ss7.png',
-    
-  ];
+  const screenshots = [ss5, ss4, ss3, ss2, ss1, ss6, ss7];
 
   return (
     <div style={{ padding: '2rem', backgroundColor: '#fffbe6' }}>
@@ -82,7 +81,7 @@ const MobileApp = () => {
         <h2 style={{ fontSize: '1.5rem', marginBottom: '1rem' }}>Uygulamayı İndir</h2>
         <p style={{ fontSize: '1rem', marginBottom: '1rem' }}>Mobil uygulamayı QR kodu okutarak cihazınıza kolayca indirebilirsiniz.</p>
         <img
-          src=".../assets/qr-download.png"
+          src={qr}
           alt="QR Kod ile indir"
           style={{ width: '150px', height: '150px' }}
         />
