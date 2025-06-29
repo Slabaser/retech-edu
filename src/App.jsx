@@ -1,14 +1,11 @@
+import React from 'react';
 import { Routes, Route } from 'react-router-dom';
 import SupportSection from './components/SupportSection';
 import Navbar from './components/Navbar';
 import KitSection from './components/KitSection';
-
 import AppIntro from './components/AppIntro';
-
-import About from './components/About';
-
-import React from 'react';
-import Hero from './components/hero';
+import About from './components/Aboutt';
+import Hero from './components/Heroo';
 import FAQ from './components/FAQ';
 import Footer from './components/Footer';
 import CertificateDemo from './components/CertificateDemo';
