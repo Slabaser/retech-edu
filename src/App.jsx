@@ -5,7 +5,7 @@ import KitSection from './components/KitSection';
 
 import AppIntro from './components/AppIntro';
 
-import About from './components/About';
+import About from './components/Aboutt';
 
 import React from 'react';
 import Hero from './components/hero';
