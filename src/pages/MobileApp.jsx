@@ -3,14 +3,13 @@ import { Link } from 'react-router-dom';
 
 const MobileApp = () => {
   const screenshots = [
-    'src/assets/ss5.png',
-    'src/assets/ss4.png',
-    'src/assets/ss3.png',
-    'src/assets/ss2.png',
-    
-    'src/assets/ss1.png',
-    'src/assets/ss6.png',
-    'src/assets/ss7.png',
+    '.../assets/ss5.png',
+    '.../assets/ss4.png',
+    '.../assets/ss3.png',
+    '.../assets/ss2.png',
+    '.../assets/ss1.png',
+    '.../assets/ss6.png',
+    '.../assets/ss7.png',
     
   ];
 
@@ -83,7 +82,7 @@ const MobileApp = () => {
         <h2 style={{ fontSize: '1.5rem', marginBottom: '1rem' }}>Uygulamayı İndir</h2>
         <p style={{ fontSize: '1rem', marginBottom: '1rem' }}>Mobil uygulamayı QR kodu okutarak cihazınıza kolayca indirebilirsiniz.</p>
         <img
-          src="src/assets/qr-download.png"
+          src=".../assets/qr-download.png"
           alt="QR Kod ile indir"
           style={{ width: '150px', height: '150px' }}
         />
