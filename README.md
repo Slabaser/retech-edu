@@ -1,12 +1,48 @@
-# React + Vite
+# 🥇 EcoSTEM – Atıktan Akıllı Ürüne
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Bu proje, 17 Küresel Amaç Ideathonu'nda 1.lik ödülü kazanmıştır.**  
+Sürdürülebilir Kalkınma Amaçları doğrultusunda geliştirilen fikrimiz, **SKA 9: Sanayi, Yenilikçilik ve Altyapı** temasına hitap ederek; çevre dostu, eğitsel ve toplumsal etkisi yüksek bir çözüm sunmuştur.
 
-Currently, two official plugins are available:
+🌐 **Canlı Demo**: [https://helpful-swan-acb9b3.netlify.app](https://helpful-swan-acb9b3.netlify.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🎯 Proje Amacı
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+“**Atıktan Akıllı Ürüne**” sloganıyla geliştirilen bu proje, elektronik atıkları yeniden değerlendirerek özellikle öğrenciler için eğitsel robotik kitlere dönüştürülmesini amaçlamaktadır. Böylece hem çevresel farkındalık oluşturulmakta hem de STEM alanlarında eğitime katkı sağlanmaktadır.
+
+---
+
+## 🏆 Yarışma Bilgileri
+
+- **Etkinlik**: 17 Küresel Amaç Ideathonu  
+- **Tema**: SKA 9 – Sürdürülebilir Sanayi, Yenilikçilik ve Altyapı  
+- **Sonuç**: 🥇 **1.lik Ödülü**  
+- **Takım Adı**: *MANİFEST*
+
+---
+
+## 🚀 Proje Özellikleri
+
+- ♻️ Elektronik atıkların yeniden kullanımı
+- 🤖 Modüler robotik kitlerle uygulamalı eğitim
+- 📱 Öğrencilerin mobil uygulama ile ilerleme takibi
+- 🎓 Görev tamamlama sonunda dijital sertifika sistemi
+- 🌍 Çevre bilinci + teknoloji okuryazarlığı kazandırma
+
+---
+
+## 📱 Mobil Uygulama (Planlanan Özellikler)
+
+- Kayıt ve giriş sistemi
+- Robotik görev modülleri ve ilerleme takibi
+- Rozet kazanma sistemi
+- Sertifika ile ödüllendirme
+
+---
+
+## 📄 Lisans
+
+Bu proje **MIT lisansı** ile açık kaynak olarak yayınlanmaktadır. Ayrıntılar için `LICENSE` dosyasına bakabilirsiniz.
+
+---
